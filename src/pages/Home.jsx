@@ -1,8 +1,9 @@
 
-const Home = () => {
+const Home = (props) => {
+    console.log(props)
     return (
         <>
-        <h2>Home Page</h2>
+        
         </>
     )
 }
