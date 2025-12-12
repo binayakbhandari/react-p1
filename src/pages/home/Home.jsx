@@ -7,7 +7,7 @@ const Home = (props) => {
     return (
         <>
             <Navbar />
-            <div className="flex flex-wrap justify-around  mx-5 my-5">
+            <div className="flex flex-wrap justify-around mt-10 mb-10">
                 <Card />
                 <Card />
                 <Card />
